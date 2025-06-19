@@ -10,3 +10,11 @@ Criar ferramentas de simulação de investimentos em Excel;
 Aplicar cálculos financeiros como rendimento mensal e cálculo de dividendos;
 Documentar processos técnicos de forma clara e estruturada; 
 Utilizar o GitHub como ferramenta para compartilhamento de documentação técnica. 
+PASSO A PASSO:
+1 - Baixei o arquivo base e importei e inseri a imagem que utilizei;
+2 - Crie e configurei as 3 tabelas: Configurações, Investimento Mensal e Cenários;
+3 - Preenchi os dados e inseri as formulas;
+4 - Executei as configurações resantes;
+5 - Criei o perfil moderado;
+6 - Criei a tabela de FII, percentual e valores;
+7 - Crie e configurei o gráfico.
